@@ -3,5 +3,7 @@ ul {
 
 }
 li {
-    float: left;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
 }
