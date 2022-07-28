@@ -7,3 +7,22 @@ li {
     float: right;
     margin-right: 10px;
 }
+
+.flex-contanier {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+.flex-container img {
+    display: flex;
+    margin:auto;    
+    width: 250px;
+    height: 250px;
+    border-color: blueviolet;
+    border-style: solid;
+   
+}
+
